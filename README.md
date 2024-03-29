@@ -14,13 +14,13 @@ Movie List is a web application that allows users to browse and search for movie
 ## Features
 
 - Browse a list of all movies
-![image](./image/home_page.png)
+![image](./image/home_page.jpg)
 - View details of a specific movie
-![image](./image/movie_descript.png)
+![image](./image/movie_descript.jpg)
 - Search for movies by title
-![image](./image/search_movie.png)
+![image](./image/search_movie.jpg)
 - Save favorite movies to local storage
-![image](./image/favorate_movie.png)
+![image](./image/favorate_movie.jpg)
 
 ## Requirements
 
