@@ -1,0 +1,9 @@
+.modal-image {
+  width: 190px;
+  object-fit: cover;
+  aspect-ratio: 3 / 4;
+}
+
+.heart {
+  cursor: pointer;
+}
